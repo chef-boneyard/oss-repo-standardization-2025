@@ -1,0 +1,24 @@
+name: SignificantChangesMerged
+
+description: |
+  When a pr merges, do the needful.
+  Bump the version.
+  TODO: update changelog
+
+on:
+  pull_request:
+    types: [closed]
+    branches:
+      - main
+    paths-ignore:
+      - '.github/**'
+
+jobs:
+  bump-version:
+    if: github.event.pull_request.merged == true
+    uses: chef/common-github-actions/.github/workflows/cd-main-version-bumper.yml@cw/version-bumper
+    with:
+      version_file_patterns: ""
+    permissions:
+      contents: write
+      pull-requests: read
