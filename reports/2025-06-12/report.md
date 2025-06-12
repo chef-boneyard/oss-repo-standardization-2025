@@ -176,6 +176,7 @@ At least the following will happen:
  - all issues closed
  - Replace CONTRIBUTING with thank you message
  - Message explaining archival added to README
+ - A successor message, if any, similar to: "At the time of archival (Date), the owners of repo foo/bar have requested to be listed as the successor fork. PSC is not affiliated with and cannot predict the future of this project."
  - move to chef-boneyard org
  - repo archived
 
@@ -205,4 +206,5 @@ We plan to use an estate-wide label, `oss-standards`, to tag PRs and Issues asso
 ### 7 - Ongoing Drift Detection
 
 We are developing an InSpec profile that describes the desired state of the repos, and will run it regularly, along with an GitHub Action component to self-scan.
+
 
