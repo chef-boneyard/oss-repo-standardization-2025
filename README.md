@@ -2,9 +2,13 @@
 
 An initiative to measure, cull, and standardize Progress Chef public OSS GitHub repositories.
 
-## What's here
+## Reports
 
-Nothing yet.
+### Community Advisory Council Report - 2025-06-12
+
+[Community Advisory Council Report - 2025-06-12](reports/cac-report-2025-06-12.md)
+
+Describes the project, the workflow, and a light treatment of the expected standarization process. 
 
 ## Progress Staff
 
