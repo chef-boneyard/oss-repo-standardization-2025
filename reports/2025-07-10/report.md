@@ -70,12 +70,14 @@ As the internal review process has progressed, it has been clear that more aggre
 
 #### We need to be able to delete (rarely)
 
-We have discovered several completely empty (unitialized) repos, self-development repos, and that sort of thing. Decommissioning takes time and effort that are not worth the effort We are giving ourselves permission to delete selected repos:
+We have discovered several completely empty (unitialized) repos, self-development repos, and that sort of thing. Decommissioning takes time and effort that are not worth the investment.  We are giving ourselves permission to delete selected repos:
 
  * with a public notice and feedback period
  * with a contents-restorable backup method (including .git directory)
 
-while some repos are being considered internally for deletion, the workflow for deletion is under development. No actions toward deletion of a public repo will be taken without community feedback.
+While some repos are currently being considered internally for deletion, the workflow for deletion is under development. No actions toward deletion of a public repo will be taken without community feedback.
+
+The community feedback process will be similar to that for decommissioning repos, with a perhaps longer feedback window.
 
 #### We need to be able to take repos private (rarely)
 
@@ -86,10 +88,6 @@ This option is only available when practical and compatible with the license in 
 Unfortunately, Progress is unable to provide community feedback or notice for this action at this time.
 
 For more information or concerns, please join the regularly scheduled Community Advisory Council meetings.
-
-### Workflows At a Glance
-
-|Workflow|Final Org|
 
 ### Workflow Details
 
