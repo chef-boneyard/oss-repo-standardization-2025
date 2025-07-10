@@ -8,7 +8,7 @@ An internal review board is meeting weekly to initially categorize repos, using 
 
 Operations, Product, DevRel, Engineering Management, Architecture are represented on the board. The board currently intakes 20 repos per week. 
 
-The job of the internal review board is to assign each repo to one of six **workflows** (see below). At this time, only the Decommission and Quick-Archive workflows are being implemented; Quick-Archive does not require community interaction. This section describes teh repos selected for Decommisioning; for details of the Decommisioning process, see the Workflows section. Note that the first step of the Decommissioning process is a 30-day feedback period.
+The job of the internal review board is to assign each repo to one of six **workflows** (see below). At this time, only the Decommission and Existing-Boneyard-Archive workflows are being implemented; Existing-Boneyard-Archive does not require community interaction. This section describes teh repos selected for Decommisioning; for details of the Decommisioning process, see the Workflows section. Note that the first step of the Decommissioning process is a 30-day feedback period.
 
 ### How to Provide Feedback a Decommission Decision
 
