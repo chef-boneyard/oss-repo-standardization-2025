@@ -1,12 +1,14 @@
 # Repository Standarization - Decommissioning
 
-If you have reached this page, you are seeking mor einformation about the Progress Chef decommissioning process. You may have been sent here because you are interested in a repo that has been selected for potential decommissioning, and you want to know what this means for you.
+If you have reached this page, you are seeking more information about the Progress Chef decommissioning process. You may have been sent here because you are interested in a repo that has been selected for potential decommissioning, and you want to know what this means for you.
 
 For information about how a repo is selected for decommissioning, see [Categorization](categorization.md).
 
 ## What Will Happen
 
 ### Workflow Control File: List of Steps
+
+This machine-readable file is our current best view of the anticipated steps, as they are being developed.
 
 ```yaml
     actions:
