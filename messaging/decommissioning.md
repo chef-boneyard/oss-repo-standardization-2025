@@ -49,7 +49,7 @@ If you are a Chef Customer requiring ongoing support or updates to a repo select
 
 A "Keep Request" is a request to keep a repository active - in other words, abort the decommission process. Since this involves considerable investment on Progress's part, not all requests can be honored.
 
-The keep request process is as follows. Each repo being considered for decommissioning will have a GItHub Issue opened, with a fixed title, and instructions on how to proceed. To request the repo be retained:
+The keep request process is as follows. Each repo being considered for decommissioning will have a GitHub Issue opened, with a fixed title, and instructions on how to proceed. To request the repo be retained:
 
  * If you are a GitHub user, "react" with a "thumbs-down" to the issue, and make a comment stating your case
  * Otherwise, use the provided link in the issue to file a request using the alternate request form.
@@ -67,7 +67,7 @@ As part of the decommissioning process, several events will occur that will one 
 
 ## A possible future - Forking
 
-If you wish the repo to be actively maintained, you may consider taking on the maintenance yourself, or finding someoneto do so. This is called a `successor fork`. Progress welcomes such endeavours of decommissioning open-source projects. For details, see [Forking Information](forking.md).
+If you wish the repo to be actively maintained, you may consider taking on the maintenance yourself, or finding someoneto do so. This is called a `successor fork`. Progress welcomes such endeavours for decommissioning open-source projects. For details, see [Forking Information](forking.md).
 
 ## Staff Contact
 

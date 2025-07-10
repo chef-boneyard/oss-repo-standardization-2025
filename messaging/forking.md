@@ -4,9 +4,7 @@ As part of the OSS repo standardization process, many repos are being [selected]
 
 ## What is forking?
 
-Forking is basically copying, with a change of virtual ownership, maintaining copyright and license. It is common and permitted under most open-source licenses. The most common license used by Chef, Apache V2, permits forking.
-
- 
+Forking is basically copying, with a change of virtual ownership, maintaining copyright and license. It is common and permitted under most open-source licenses. The most common license used by Chef, Apache V2, permits forking; not all licenses permit forking.
 
 ## Why would I fork a decommissioning repo?
 
