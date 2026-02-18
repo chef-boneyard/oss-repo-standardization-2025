@@ -22,3 +22,7 @@ Describes the project, the workflow, and a light treatment of the expected stand
 Clinton Wolfe (wolfe@progress.com), Architect, Progress Infra 360 Team
 
 Gavin Fletchall, (Gavin.Fletchall@progress.com) Director, Chef Engineering
+
+# Copyright
+
+See [COPYRIGHT.md](./COPYRIGHT.md).
